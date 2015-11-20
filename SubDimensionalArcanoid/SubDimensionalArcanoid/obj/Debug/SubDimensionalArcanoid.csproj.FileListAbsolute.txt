@@ -1,0 +1,53 @@
+C:\Users\Andrea\Documents\Roba\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\Roba\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.frmGame.resources
+C:\Users\Andrea\Documents\Roba\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.Properties.Resources.resources
+C:\Users\Andrea\Documents\Roba\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\Roba\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.exe.config
+C:\Users\Andrea\Documents\Roba\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.exe
+C:\Users\Andrea\Documents\Roba\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.pdb
+C:\Users\Andrea\Documents\Roba\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.exe
+C:\Users\Andrea\Documents\Roba\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.pdb
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.frmGame.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.HomePage.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.PannelloInfo.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.Properties.Resources.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.frmGame.it-IT.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.csproj.GenerateResource.Cache
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.exe.config
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.exe
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.pdb
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\it-IT\SubDimensionalArcanoid.resources.dll
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.csprojResolveAssemblyReference.cache
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\it-IT\SubDimensionalArcanoid.resources.dll
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.exe
+C:\Users\andrea\Desktop\A.S.15-16\SubDimension Arkanoid\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.pdb
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.exe.config
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.exe
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.pdb
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.exe
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.pdb
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\it-IT\SubDimensionalArcanoid.resources.dll
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.frmGame.resources
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.HomePage.resources
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.PannelloInfo.resources
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.Properties.Resources.resources
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.frmGame.it-IT.resources
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.csproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\it-IT\SubDimensionalArcanoid.resources.dll
+C:\Users\Andrea\Documents\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.Models.EditorLivelli.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.exe.config
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.exe
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.pdb
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.exe
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\SubDimensionalArcanoid.pdb
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\bin\Debug\it-IT\SubDimensionalArcanoid.resources.dll
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.csprojResolveAssemblyReference.cache
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.frmGame.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.HomePage.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.Models.EditorLivelli.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.PannelloInfo.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.Properties.Resources.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.frmGame.it-IT.resources
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\SubDimensionalArcanoid.csproj.GenerateResource.Cache
+C:\Users\andrea\Desktop\A.S.15-16\SubDimensionalArcanoid\SubDimensionalArcanoid\obj\Debug\it-IT\SubDimensionalArcanoid.resources.dll
